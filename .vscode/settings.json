@@ -1,5 +1,19 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "tokentype.h": "c",
+        "*.tcc": "c",
+        "system_error": "c",
+        "random": "c",
+        "istream": "c",
+        "limits": "c",
+        "new": "c",
+        "ostream": "c",
+        "stdexcept": "c",
+        "streambuf": "c",
+        "functional": "c",
+        "string.h": "c"
     }
 }

@@ -2,7 +2,7 @@
 #include <strings.h>
 
 
-int main()
+int test()
 {
     char msg[6][256] = {"Hello", "C", "World", "from", "VS Code", "and the C++ extension!"};
     int i;
